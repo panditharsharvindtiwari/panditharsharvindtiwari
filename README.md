@@ -75,8 +75,17 @@ Currently Improving
 - Admin dashboard for product management
 - Authentication and authorization
 
-🔗 Live on Vercel
-🔗 Source code available on GitHub
+## Links
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Site-blue)](https://grah-shobha.vercel.app)
+
+
+https://grah-shobha.vercel.app
+
+
+[![Deployed on Vercel](https://img.shields.io/badge/DEPLOYED_ON-VERCEL-black)](https://vercel.com)
+
+https://vercel.com
 
 ---
 
