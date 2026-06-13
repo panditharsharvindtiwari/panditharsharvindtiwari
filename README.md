@@ -47,18 +47,36 @@ An intelligent Android gallery application built with React Native and Expo EAS.
 ---
 
 ### 🏠 GrahShobha — Interiors and Furnishings Website
-A professional website for GrahShobha Interiors and Furnishings, a furniture factory based in Ujjain. Built to bring the business online with a modern, cinematic aesthetic.
+A modern website built for GrahShobha Interiors and Furnishings, a furniture manufacturing business based in Ujjain, Madhya Pradesh. The platform showcases furniture collections and interior solutions through a responsive, production-ready web experience.
 
-**What it includes:**
-- Product catalogue with per-product colour and size selectors
-- WhatsApp-based cart and checkout flow
-- Admin panel for product management
-- OTP-based authentication via Fast2SMS
-- Cloudinary-powered image management
+Current Features
 
-**Stack:** Next.js 14 · Tailwind CSS · Framer Motion · MongoDB Atlas · Cloudinary · NextAuth.js · Vercel
+- Modern responsive UI built with Next.js
+- Product catalogue and category browsing
+- Product detail pages
+- Per-product colour and size selection
+- WhatsApp-based enquiry and ordering flow
+- Animated and interactive user experience
+- Deployed and accessible online
 
-> *Not yet published — in active development*
+Tech Stack
+
+- Next.js 14
+- React
+- Tailwind CSS
+- Framer Motion
+- Vercel
+
+Currently Improving
+
+- MongoDB integration for dynamic product data
+- Cloudinary-based image management
+- Product pricing and inventory management
+- Admin dashboard for product management
+- Authentication and authorization
+
+🔗 Live on Vercel
+🔗 Source code available on GitHub
 
 ---
 
